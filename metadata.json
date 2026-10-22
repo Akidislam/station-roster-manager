@@ -1,0 +1,6 @@
+{
+  "name": "Station Roster Manager",
+  "description": "Professional station-based weekly holiday and roster scheduling web application with mathematical constraint validation and fairness optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
